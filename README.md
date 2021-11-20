@@ -16,3 +16,7 @@
 ![Makefile](https://img.shields.io/badge/-Makefile-090909?style=for-the-badge&logo=makefile&logoColor=0d8ac7)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visualstudio&logoColor=0d8ac7)
 ![Vim](https://img.shields.io/badge/-Vim-090909?style=for-the-badge&logo=Vim&logoColor=019833)
+
+
+
+![Haimasker's GitHub stats](https://github-readme-stats.vercel.app/api?username=haimasker&show_icons=true&theme=radical)
