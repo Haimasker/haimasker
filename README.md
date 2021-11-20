@@ -19,4 +19,6 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haimasker&layout=compact)](https://github.com/haimasker/github-readme-stats)
+
 ![Haimasker's GitHub stats](https://github-readme-stats.vercel.app/api?username=haimasker&show_icons=true&theme=radical)
