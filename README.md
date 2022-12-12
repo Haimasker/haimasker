@@ -1,26 +1,50 @@
-## <ins >A few words about me </ins>
-## Third year student of Kazan Federal University. I am studying at a bachelor's degree in the faculty of applied mathematics and informatics. Beginning in the summer of 2021 I am additionally studying at [School 21](https://21-school.ru/) (programming courses from Sberbank). <br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img align=center src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=600&color=B500CB&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Denis;C%2B%2B+enjoyer%2C+algorithms+and+data+structures+lover" alt="Typing SVG" />
+  </a>
+</h1>
 
-### <ins >Languages and technologies </ins>
-![Windows](https://img.shields.io/badge/-Windows-696969?style=for-the-badge&logo=windows&logoColor=659ad2)
-![macOS](https://img.shields.io/badge/-macOS-696969?style=for-the-badge&logo=macOS&logoColor=659ad2)
-![Linux](https://img.shields.io/badge/-Linux-696969?style=for-the-badge&logo=Linux&logoColor=000000)
+<p align=center>
+  🎓 I'm presently studying for a bachelor's degree in Kazan Federal University, Russia
+  <br>
+  🎓 Institute of Computational Mathematics and Information Technology
+  <br>
+  🎓 Applied mathematics and computer science faculty
+  <br>
+  💻 I love writing code and learn anything about it
+  <br>
+  📚 Currently interested in quantum algorithms
+</p>
 
+<hr>
 
-![c++](https://img.shields.io/badge/-c++-090909?style=for-the-badge&logo=cplusplus&logoColor=659ad2)
-![c](https://img.shields.io/badge/-c-090909?style=for-the-badge&logo=c&logoColor=659ad2)
-![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R&logoColor=0e49bb)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=0d8ac7)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffd545)
-![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=Jupyter&logoColor=fe7d37)
-![Makefile](https://img.shields.io/badge/-Makefile-090909?style=for-the-badge&logo=makefile&logoColor=0d8ac7)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visualstudio&logoColor=0d8ac7)
-![Vim](https://img.shields.io/badge/-Vim-090909?style=for-the-badge&logo=Vim&logoColor=019833)
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<br>
+<p align="center">
+  <code><img title="Windows"                 height="45" src="images/windows.svg">         </code>
+  <code><img title="MacOS"                   height="45" src="images/macos.svg">           </code>
+  <code><img title="Ubuntu"                  height="45" src="images/ubuntu.svg">          </code>
+</p>
+<p align="center">
+  <code><img title="C"                       height="45" src="images/c.svg">               </code>
+  <code><img title="C++"                     height="45" src="images/cpp.svg">             </code>
+  <code><img title="Python"                  height="45" src="images/python.svg">          </code>
+</p>
+<p align="center">
+  <code><img title="Git"                     height="45" src="images/git.svg">             </code>
+  <code><img title="GitHub"                  height="45" src="images/github.svg">          </code>
+  <code><img title="Visual Studio Code"      height="45" src="images/vscode.svg">          </code>
+  <code><img title="Microsoft Visual Studio" height="45" src="images/visualstudio.svg">    </code>
+  <code><img title="Jupyter"                 height="45" src="images/jupyter.svg">         </code>
+  <code><img title="Makefile"                height="45" src="images/makefile.svg">        </code>
+  <code><img title="Vim"                     height="45" src="images/vim.svg">             </code>
+</p>
 
+<hr>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haimasker&layout=compact)](https://github.com/haimasker/github-readme-stats)
-
-![Haimasker's GitHub stats](https://github-readme-stats.vercel.app/api?username=haimasker&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: row;">
+ <img height=165 class="img" src="https://github-readme-stats.vercel.app/api?username=haimasker&show_icons=true&bg_color=45,5000C1,9900AC&hide_title=true&text_color=e5e5e5&icon_color=00DA08&title_color=e5e5e5&hide_border=true&border_radius=15" />
+ <img height=165 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimasker&layout=compact&bg_color=45,5000C1,9900AC&text_color=e5e5e5&title_color=e5e5e5&hide_border=true&border_radius=15" />
+</div>
 
 ![Snake animation](https://github.com/Haimasker/haimasker/blob/output/github-contribution-grid-snake.svg)
