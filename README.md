@@ -43,8 +43,8 @@
 <hr>
 
 <div style="display: flex; flex-direction: row;">
- <img height=150 class="img" src="https://github-readme-stats.vercel.app/api?username=haimasker&show_icons=true&bg_color=45,5000C1,9900AC&hide_title=true&text_color=e5e5e5&icon_color=00DA08&title_color=e5e5e5&hide_border=true&border_radius=15" />
- <img height=150 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimasker&layout=compact&bg_color=45,5000C1,9900AC&text_color=e5e5e5&title_color=e5e5e5&hide_border=true&border_radius=15" />
+ <img height=150 class="img" src="https://github-readme-stats-ruby-one.vercel.app/api?username=haimasker&show_icons=true&bg_color=45,5000C1,9900AC&hide_title=true&text_color=e5e5e5&icon_color=00DA08&title_color=e5e5e5&hide_border=true&border_radius=15" />
+ <img height=150 class="img" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=haimasker&layout=compact&bg_color=45,5000C1,9900AC&text_color=e5e5e5&title_color=e5e5e5&hide_border=true&border_radius=15" />
 </div>
 
 ![Snake animation](https://github.com/Haimasker/haimasker/blob/output/github-contribution-grid-snake.svg)
